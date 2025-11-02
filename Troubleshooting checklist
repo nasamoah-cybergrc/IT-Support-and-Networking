@@ -1,0 +1,13 @@
+# Troubleshooting Checklist — Basic PC & Connectivity
+
+Checklist for when a user reports a PC or network issue.
+
+1. Gather problem info: user error, screenshots, exact time.
+2. Reproduce the issue (ask permission).
+3. Check physical connections & power.
+4. Verify network (Wi-Fi icon, try ping 8.8.8.8).
+5. Restart app / browser / PC.
+6. Check Windows Event Viewer / macOS Console for errors.
+7. Update drivers and OS if needed (note changes).
+8. Document steps taken and outcome.
+9. If unresolved, escalate with logs and screenshots.
